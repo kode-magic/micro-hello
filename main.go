@@ -1,8 +1,8 @@
 package main
 
 import (
-	"hello/handler"
-	pb "hello/proto"
+	"github.com/kode-magic/micro-hello/handler"
+	pb "github.com/kode-magic/micro-hello/proto"
 
 	"github.com/micro/micro/v3/service"
 	log "github.com/micro/micro/v3/service/logger"

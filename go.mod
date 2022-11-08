@@ -1,4 +1,4 @@
-module hello
+module github.com/kode-magic/micro-hello
 
 go 1.18
 

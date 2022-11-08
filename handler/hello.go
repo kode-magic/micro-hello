@@ -5,7 +5,7 @@ import (
 
 	log "github.com/micro/micro/v3/service/logger"
 
-	pb "hello/proto"
+	pb "github.com/kode-magic/micro-hello/proto"
 )
 
 type Hello struct{}
